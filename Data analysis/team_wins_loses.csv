@@ -1,0 +1,297 @@
+team,wins,loses
+FC Barcelona,234,27
+Real Madrid CF,228,40
+Celtic,218,36
+FC Bayern Munich,193,35
+Juventus,189,46
+SL Benfica,185,27
+FC Porto,183,23
+Ajax,181,32
+FC Basel,180,42
+Manchester United,192,55
+Chelsea,176,58
+Arsenal,170,61
+PSV,178,47
+Paris Saint-Germain,175,53
+Borussia Dortmund,157,53
+Roma,162,68
+Sporting CP,144,44
+Atlético Madrid,167,78
+Inter,154,76
+Liverpool,150,78
+Olympique de Marseille,143,71
+Tottenham Hotspur,151,79
+Manchester City,175,68
+Milan,154,70
+Olympique Lyonnais,153,71
+Bayer 04 Leverkusen,137,69
+FC Twente,144,57
+AZ,140,79
+FC Zürich,120,97
+Napoli,153,71
+BSC Young Boys,142,75
+RSC Anderlecht,136,27
+Legia Warszawa,137,53
+LOSC Lille,147,65
+Aberdeen,120,109
+Feyenoord,139,70
+Motherwell,122,120
+Fiorentina,132,93
+Rangers,108,19
+Valencia CF,142,88
+Lazio,131,105
+Lech Poznań,124,56
+Dundee United,115,106
+Club Brugge KV,123,49
+Inverness Caledonian Thistle,96,101
+Sevilla FC,139,100
+Stade Rennais FC,111,102
+FC Schalke 04,127,88
+AS Saint-Étienne,121,101
+KAA Gent,109,54
+Everton,121,83
+Girondins de Bordeaux,126,79
+SC Braga,126,66
+St. Johnstone FC,98,99
+Vitesse,105,96
+Grasshopper Club Zürich,115,104
+Wisła Kraków,108,68
+VfL Wolfsburg,117,88
+AS Monaco,95,58
+Athletic Club de Bilbao,122,111
+SC Heerenveen,107,93
+Aston Villa,86,130
+Chievo Verona,87,129
+Toulouse FC,103,111
+VfB Stuttgart,99,112
+FC Luzern,105,107
+Standard de Liège,106,64
+Montpellier Hérault SC,110,89
+Málaga CF,106,120
+Vitória Guimarães,92,95
+Borussia Mönchengladbach,109,101
+Hamburger SV,93,113
+Kilmarnock,86,142
+Ruch Chorzów,92,91
+Udinese,115,111
+FC Groningen,109,101
+OGC Nice,106,117
+FC Utrecht,105,97
+KRC Genk,97,60
+FC Lorient,97,116
+Heart of Midlothian,101,99
+TSG 1899 Hoffenheim,87,109
+Villarreal CF,112,83
+CD Nacional,94,89
+FC Sion,104,113
+Heracles Almelo,93,118
+1. FSV Mainz 05,88,85
+SV Werder Bremen,89,107
+SV Zulte-Waregem,78,72
+Sporting Lokeren,74,70
+FC Paços de Ferreira,80,93
+Genoa,106,117
+Getafe CF,94,139
+Hibernian,65,101
+Rio Ave FC,75,104
+Lechia Gdańsk,78,95
+Polonia Bytom,94,119
+CS Marítimo,85,97
+Hamilton Academical FC,56,90
+RCD Espanyol,97,134
+Śląsk Wrocław,89,71
+ADO Den Haag,79,119
+FC St. Gallen,72,94
+Hannover 96,91,124
+KV Mechelen,79,81
+Newcastle United,82,119
+Stoke City,98,120
+Sunderland,78,134
+1. FC Köln,60,90
+Sampdoria,84,101
+West Bromwich Albion,75,118
+Bologna,68,116
+FC Thun,71,75
+Hertha BSC Berlin,65,90
+Piast Gliwice,65,73
+Real Sociedad,84,85
+Roda JC Kerkrade,71,108
+St. Mirren,61,131
+AS Nancy-Lorraine,56,81
+Eintracht Frankfurt,72,103
+KV Kortrijk,82,80
+Korona Kielce,69,77
+P. Warszawa,60,52
+Rayo Vallecano,66,96
+Real Betis Balompié,56,87
+Swansea City,62,76
+West Ham United,80,112
+Atalanta,79,115
+Cagliari,76,114
+Jagiellonia Białystok,87,89
+N.E.C.,68,98
+Palermo,91,107
+Parma,74,89
+RC Celta de Vigo,54,63
+SC Freiburg,62,88
+Southampton,60,52
+Zagłębie Lubin,59,70
+FC Augsburg,55,70
+NAC Breda,71,109
+Podbeskidzie Bielsko-Biała,42,59
+AJ Auxerre,53,49
+SM Caen,56,81
+Wigan Athletic,50,88
+Académica de Coimbra,56,110
+Granada CF,52,95
+Levante UD,69,103
+Torino,57,74
+Estoril Praia,50,42
+GKS Bełchatów,62,69
+KSV Cercle Brugge,58,90
+RC Deportivo de La Coruña,62,92
+Sporting Charleroi,55,85
+1. FC Nürnberg,49,78
+CA Osasuna,67,97
+Cracovia,61,96
+FC Sochaux-Montbéliard,69,102
+Fulham,71,95
+KVC Westerlo,54,82
+PEC Zwolle,49,54
+RCD Mallorca,67,79
+Ross County FC,50,67
+Widzew Łódź,48,80
+Crystal Palace,37,53
+FC Nantes,45,63
+Racing Santander,37,68
+Sassuolo,37,44
+UD Almería,48,96
+Vitória Setúbal,58,125
+Bolton Wanderers,43,76
+Partick Thistle F.C.,32,48
+Pogoń Szczecin,42,35
+Real Sporting de Gijón,54,92
+Valenciennes FC,65,94
+Évian Thonon Gaillard FC,45,71
+CF Os Belenenses,37,68
+Leicester City,34,22
+En Avant de Guingamp,37,53
+Neuchâtel Xamax,36,59
+Real Zaragoza,43,75
+Stade de Reims,44,66
+Blackburn Rovers,42,71
+Dundee FC,29,49
+Moreirense FC,25,45
+S.C. Olhanense,32,63
+SC Bastia,51,64
+Sint-Truidense VV,31,60
+Willem II,44,119
+KV Oostende,29,23
+Norwich City,39,72
+Real Valladolid,37,68
+Hellas Verona,32,50
+Hull City,32,79
+Lecce,24,54
+Siena,37,75
+Beerschot AC,40,70
+Catania,67,94
+FC Aarau,35,75
+FC Arouca,28,41
+Waasland-Beveren,24,51
+1. FC Kaiserslautern,17,33
+De Graafschap,27,75
+FC Vaduz,19,57
+Naval 1° de Maio,22,46
+RAEC Mons,25,45
+RKC Waalwijk,34,75
+Servette FC,20,36
+Stade Brestois 29,27,52
+Wolverhampton Wanderers,25,61
+AC Bellinzona,25,58
+Elche CF,20,35
+Excelsior,27,74
+Gil Vicente FC,26,63
+Leixões SC,17,28
+Royal Excel Mouscron,26,46
+SC Beira Mar,20,45
+"União de Leiria, SAD",23,47
+Angers SCO,13,14
+Birmingham City,21,29
+Cesena,19,61
+Empoli,20,28
+FC Lausanne-Sports,23,65
+Lierse SK,22,61
+Queens Park Rangers,22,66
+RC Lens,26,54
+SD Eibar,20,38
+SV Darmstadt 98,9,14
+AC Ajaccio,22,52
+Bournemouth,11,18
+Falkirk,15,37
+Go Ahead Eagles,17,37
+Le Mans FC,18,40
+Oud-Heverlee Leuven,22,40
+VVV-Venlo,29,79
+VfL Bochum,13,34
+Watford,12,17
+Zawisza Bydgoszcz,19,27
+Bari,18,38
+Blackpool,10,19
+Boavista FC,17,35
+Grenoble Foot 38,15,39
+Odra Wodzisław,15,31
+Tondela,8,20
+Arka Gdynia,20,44
+Burnley,15,43
+Dunfermline Athletic,5,23
+ES Troyes AC,11,43
+FC St. Pauli,8,21
+FCV Dender EH,9,17
+Górnik Łęczna,16,27
+KSV Roeselare,12,38
+Livorno,13,48
+Portsmouth,17,41
+RC Recreativo,8,21
+SC Cambuur,24,52
+SpVgg Greuther Fürth,4,21
+UD Las Palmas,12,18
+Carpi,9,18
+Dijon FCO,9,20
+FC Ingolstadt 04,10,14
+GFC Ajaccio,8,17
+Karlsruher SC,8,21
+Le Havre AC,7,26
+Lugano,9,19
+Reggio Calabria,6,19
+SC Paderborn 07,7,17
+Sparta Rotterdam,15,37
+Termalica Bruk-Bet Nieciecza,8,13
+US Boulogne Cote D'Opale,7,21
+Cardiff City,7,22
+Córdoba CF,3,24
+DSC Arminia Bielefeld,4,14
+FC Energie Cottbus,8,20
+FC Penafiel,5,22
+Feirense,5,16
+Fortuna Düsseldorf,7,18
+Frosinone,8,23
+Hércules Club de Fútbol,9,21
+KAS Eupen,5,17
+Middlesbrough,7,20
+Novara,6,19
+Pescara,6,28
+Portimonense,6,17
+Reading,6,22
+Trofense,5,17
+Xerez Club Deportivo,8,20
+AC Arles-Avignon,3,24
+Amadora,8,12
+Brescia,7,20
+CD Numancia,10,23
+CD Tenerife,9,20
+Eintracht Braunschweig,6,21
+FC Dordrecht,4,22
+FC Metz,7,22
+FC Volendam,7,19
+Tubize,7,21
+Uniao da Madeira,7,19

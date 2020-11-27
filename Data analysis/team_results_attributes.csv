@@ -1,0 +1,246 @@
+team,wins,loses,team_api_id,buildUpPlaySpeedClass,buildUpPlayDribblingClass,buildUpPlayPassingClass,buildUpPlayPositioningClass,chanceCreationPassingClass,chanceCreationCrossingClass,chanceCreationShootingClass,chanceCreationPositioningClass,defencePressureClass,defenceAggressionClass,defenceTeamWidthClass,defenceDefenderLineClass
+FC Barcelona,234,27,8634,Balanced,Normal,Mixed,Free Form,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+Real Madrid CF,228,40,8633,Balanced,Normal,Mixed,Free Form,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+Celtic,218,36,9925,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+FC Bayern Munich,193,35,9823,Balanced,Little,Short,Free Form,Normal,Little,Little,Free Form,High,Press,Normal,Cover
+Juventus,189,46,9885,Balanced,Normal,Short,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+SL Benfica,185,27,9772,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+FC Porto,183,23,9773,Fast,Normal,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+Ajax,181,32,8593,Balanced,Normal,Mixed,Organised,Normal,Normal,Little,Free Form,Medium,Press,Normal,Cover
+FC Basel,180,42,9931,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Manchester United,192,55,10260,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Chelsea,176,58,8455,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+PSV,178,47,8640,Fast,Normal,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+Arsenal,170,61,9825,Balanced,Normal,Short,Organised,Safe,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+Paris Saint-Germain,175,53,9847,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Borussia Dortmund,157,53,9789,Fast,Normal,Mixed,Organised,Risky,Normal,Normal,Free Form,Medium,Double,Normal,Cover
+Roma,162,68,8686,Fast,Little,Mixed,Organised,Risky,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+Sporting CP,144,44,9768,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Inter,154,76,8636,Balanced,Lots,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Liverpool,150,78,8650,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Atlético Madrid,167,78,9906,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Tottenham Hotspur,151,79,8586,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Olympique de Marseille,143,71,8592,Balanced,Lots,Mixed,Organised,Normal,Lots,Little,Organised,Medium,Press,Normal,Cover
+Manchester City,175,68,8456,Balanced,Normal,Short,Free Form,Normal,Normal,Little,Free Form,Medium,Press,Normal,Cover
+Milan,154,70,8564,Balanced,Lots,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+Olympique Lyonnais,153,71,9748,Balanced,Normal,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+Bayer 04 Leverkusen,137,69,8178,Fast,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Double,Normal,Cover
+FC Twente,144,57,8611,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Napoli,153,71,9875,Balanced,Lots,Mixed,Organised,Risky,Normal,Lots,Organised,Medium,Press,Normal,Offside Trap
+AZ,140,79,10229,Balanced,Normal,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+FC Zürich,120,97,10243,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+RSC Anderlecht,136,27,8635,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+BSC Young Boys,142,75,10192,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Legia Warszawa,137,53,8673,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+LOSC Lille,147,65,8639,Balanced,Normal,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Aberdeen,120,109,8485,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Free Form,Medium,Press,Normal,Cover
+Motherwell,122,120,9927,Balanced,Normal,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+Feyenoord,139,70,10235,Balanced,Little,Mixed,Organised,Normal,Lots,Little,Organised,Medium,Press,Normal,Cover
+Fiorentina,132,93,8535,Balanced,Normal,Short,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Rangers,108,19,8548,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Valencia CF,142,88,10267,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Lech Poznań,124,56,2182,Balanced,Normal,Mixed,Free Form,Normal,Lots,Lots,Free Form,Medium,Press,Normal,Cover
+Lazio,131,105,8543,Fast,Normal,Mixed,Organised,Risky,Lots,Lots,Free Form,Medium,Press,Normal,Cover
+Dundee United,115,106,9938,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Inverness Caledonian Thistle,96,101,8066,Balanced,Normal,Short,Organised,Normal,Normal,Lots,Free Form,Medium,Press,Normal,Cover
+Sevilla FC,139,100,8302,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Club Brugge KV,123,49,8342,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Stade Rennais FC,111,102,9851,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+FC Schalke 04,127,88,10189,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+AS Saint-Étienne,121,101,9853,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+KAA Gent,109,54,9991,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Vitesse,105,96,8277,Balanced,Normal,Mixed,Free Form,Normal,Normal,Lots,Free Form,Medium,Press,Normal,Cover
+St. Johnstone FC,98,99,8467,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Everton,121,83,8668,Balanced,Normal,Mixed,Organised,Normal,Little,Normal,Organised,Medium,Press,Normal,Cover
+Girondins de Bordeaux,126,79,9827,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+SC Braga,126,66,10264,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+Grasshopper Club Zürich,115,104,9956,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Wisła Kraków,108,68,10265,Slow,Normal,Mixed,Free Form,Safe,Normal,Little,Free Form,Medium,Press,Normal,Cover
+VfL Wolfsburg,117,88,8721,Fast,Normal,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Athletic Club de Bilbao,122,111,8315,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+AS Monaco,95,58,9829,Balanced,Normal,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+SC Heerenveen,107,93,10228,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Chievo Verona,87,129,8533,Balanced,Normal,Long,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Toulouse FC,103,111,9941,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Aston Villa,86,130,10252,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+VfB Stuttgart,99,112,10269,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Narrow,Cover
+Standard de Liège,106,64,9985,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+FC Luzern,105,107,10199,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Vitória Guimarães,92,95,7844,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Málaga CF,106,120,9864,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+Montpellier Hérault SC,110,89,10249,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Ruch Chorzów,92,91,1601,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Kilmarnock,86,142,8597,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Udinese,115,111,8600,Fast,Normal,Mixed,Organised,Risky,Lots,Normal,Organised,Medium,Press,Normal,Cover
+Borussia Mönchengladbach,109,101,9788,Slow,Normal,Short,Organised,Normal,Little,Normal,Free Form,Medium,Press,Normal,Cover
+Hamburger SV,93,113,9790,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+FC Groningen,109,101,8674,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+OGC Nice,106,117,9831,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+FC Utrecht,105,97,9908,Balanced,Normal,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+KRC Genk,97,60,9987,Balanced,Normal,Mixed,Organised,Safe,Lots,Normal,Organised,Medium,Press,Wide,Cover
+TSG 1899 Hoffenheim,87,109,8226,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+FC Lorient,97,116,8689,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Villarreal CF,112,83,10205,Balanced,Normal,Mixed,Free Form,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+Heracles Almelo,93,118,9791,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+FC Sion,104,113,10179,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+CD Nacional,94,89,10214,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+SV Werder Bremen,89,107,8697,Balanced,Normal,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Wide,Cover
+1. FSV Mainz 05,88,85,9905,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Sporting Lokeren,74,70,9994,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+SV Zulte-Waregem,78,72,10000,Balanced,Normal,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+FC Paços de Ferreira,80,93,6403,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Rio Ave FC,75,104,7841,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Getafe CF,94,139,8305,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Genoa,106,117,10233,Balanced,Normal,Long,Organised,Normal,Normal,Little,Organised,Deep,Press,Normal,Cover
+Lechia Gdańsk,78,95,8030,Balanced,Normal,Mixed,Free Form,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Śląsk Wrocław,89,71,8025,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Hamilton Academical FC,56,90,8429,Balanced,Normal,Mixed,Free Form,Risky,Normal,Lots,Organised,Medium,Press,Normal,Cover
+RCD Espanyol,97,134,8558,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+CS Marítimo,85,97,10212,Balanced,Normal,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+KV Mechelen,79,81,8203,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Sunderland,78,134,8472,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Hannover 96,91,124,9904,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+FC St. Gallen,72,94,10190,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Stoke City,98,120,10194,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+ADO Den Haag,79,119,10217,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Newcastle United,82,119,10261,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+West Bromwich Albion,75,118,8659,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1. FC Köln,60,90,8722,Balanced,Normal,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+Sampdoria,84,101,9882,Balanced,Normal,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+Piast Gliwice,65,73,8028,Balanced,Normal,Long,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Hertha BSC Berlin,65,90,8177,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+Real Sociedad,84,85,8560,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+St. Mirren,61,131,9800,Balanced,Normal,Short,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Bologna,68,116,9857,Balanced,Normal,Mixed,Organised,Safe,Normal,Normal,Organised,Deep,Press,Normal,Cover
+FC Thun,71,75,10191,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Korona Kielce,69,77,8245,Balanced,Lots,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+AS Nancy-Lorraine,56,81,8481,Balanced,Normal,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+KV Kortrijk,82,80,8571,Balanced,Normal,Mixed,Organised,Normal,Lots,Little,Organised,Medium,Press,Normal,Cover
+Eintracht Frankfurt,72,103,9810,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Rayo Vallecano,66,96,8370,Slow,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Real Betis Balompié,56,87,8603,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+West Ham United,80,112,8654,Fast,Normal,Mixed,Organised,Risky,Lots,Little,Organised,Deep,Press,Normal,Cover
+Swansea City,62,76,10003,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Free Form,Deep,Press,Normal,Cover
+Jagiellonia Białystok,87,89,1957,Balanced,Normal,Mixed,Organised,Normal,Little,Normal,Organised,Medium,Press,Normal,Cover
+SC Freiburg,62,88,8358,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Narrow,Cover
+Southampton,60,52,8466,Balanced,Little,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+Atalanta,79,115,8524,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Cagliari,76,114,8529,Fast,Little,Mixed,Organised,Risky,Normal,Lots,Free Form,Medium,Press,Normal,Offside Trap
+Palermo,91,107,8540,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+RC Celta de Vigo,54,63,9910,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+Parma,74,89,10167,Balanced,Normal,Short,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Podbeskidzie Bielsko-Biała,42,59,8033,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+FC Augsburg,55,70,8406,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+NAC Breda,71,109,9761,Balanced,Normal,Mixed,Organised,Safe,Normal,Normal,Organised,Medium,Press,Normal,Cover
+SM Caen,56,81,7819,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Wigan Athletic,50,88,8528,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+AJ Auxerre,53,49,8583,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Granada CF,52,95,7878,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Levante UD,69,103,8581,Balanced,Normal,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Contain,Normal,Cover
+Torino,57,74,9804,Fast,Lots,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+Académica de Coimbra,56,110,10215,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Estoril Praia,50,42,7842,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+GKS Bełchatów,62,69,8569,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+RC Deportivo de La Coruña,62,92,9783,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+KSV Cercle Brugge,58,90,9984,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Sporting Charleroi,55,85,9986,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Cracovia,61,96,2186,Balanced,Normal,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+1. FC Nürnberg,49,78,8165,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+CA Osasuna,67,97,8371,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+FC Sochaux-Montbéliard,69,102,9874,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Fulham,71,95,9879,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Normal,Cover
+KVC Westerlo,54,82,10001,Balanced,Normal,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+PEC Zwolle,49,54,6413,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Ross County FC,50,67,8649,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+RCD Mallorca,67,79,8661,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Sassuolo,37,44,7943,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Racing Santander,37,68,8696,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Crystal Palace,37,53,9826,Balanced,Normal,Long,Organised,Risky,Lots,Normal,Organised,Medium,Press,Normal,Cover
+FC Nantes,45,63,9830,Balanced,Lots,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+UD Almería,48,96,9865,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Vitória Setúbal,58,125,10238,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Évian Thonon Gaillard FC,45,71,4087,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Pogoń Szczecin,42,35,8023,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Partick Thistle F.C.,32,48,8426,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Bolton Wanderers,43,76,8559,Balanced,Normal,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Real Sporting de Gijón,54,92,9869,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Valenciennes FC,65,94,9873,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+Leicester City,34,22,8197,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+CF Os Belenenses,37,68,9807,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Real Zaragoza,43,75,8394,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+En Avant de Guingamp,37,53,9747,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Stade de Reims,44,66,9837,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+SC Bastia,51,64,7794,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Dundee FC,29,49,8284,Balanced,Normal,Mixed,Organised,Safe,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Moreirense FC,25,45,8348,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Willem II,44,119,8525,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Blackburn Rovers,42,71,8655,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+KV Oostende,29,23,8573,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Norwich City,39,72,9850,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Real Valladolid,37,68,10281,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Hull City,32,79,8667,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Hellas Verona,32,50,9876,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Waasland-Beveren,24,51,8475,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Normal,Cover
+Catania,67,94,8530,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+FC Aarau,35,75,9930,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+FC Arouca,28,41,158085,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1. FC Kaiserslautern,17,33,8350,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Stade Brestois 29,27,52,8521,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Wolverhampton Wanderers,25,61,8602,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+FC Vaduz,19,57,9824,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Contain,Normal,Cover
+Gil Vicente FC,26,63,9764,Fast,Lots,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+Excelsior,27,74,10218,Balanced,Normal,Long,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+Elche CF,20,35,10268,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Angers SCO,13,14,8121,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+SV Darmstadt 98,9,14,8262,Balanced,Normal,Long,Organised,Normal,Lots,Normal,Organised,Deep,Press,Normal,Cover
+SD Eibar,20,38,8372,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Empoli,20,28,8534,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+RC Lens,26,54,8588,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Birmingham City,21,29,8658,Balanced,Little,Long,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Cesena,19,61,9880,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Lierse SK,22,61,9989,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Queens Park Rangers,22,66,10172,Slow,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Go Ahead Eagles,17,37,6433,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Zawisza Bydgoszcz,19,27,8027,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+AC Ajaccio,22,52,8576,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Bournemouth,11,18,8678,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Watford,12,17,9817,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+VfL Bochum,13,34,9911,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+Blackpool,10,19,8483,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Boavista FC,17,35,8613,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+Bari,18,38,9976,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Royal Excel Mouscron,23,46,274581,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+SC Cambuur,24,52,7788,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Górnik Łęczna,16,27,8019,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+FC St. Pauli,8,21,8152,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Burnley,15,43,8191,Balanced,Little,Long,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+UD Las Palmas,12,18,8306,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+SpVgg Greuther Fürth,4,21,8357,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Portsmouth,17,41,8462,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+RC Recreativo,8,21,8479,Balanced,Normal,Mixed,Organised,Safe,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Livorno,13,48,8537,Balanced,Normal,Long,Organised,Normal,Little,Lots,Organised,Deep,Press,Normal,Cover
+ES Troyes AC,11,43,10242,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+GFC Ajaccio,8,17,6391,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+FC Ingolstadt 04,10,14,8234,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Karlsruher SC,8,21,8295,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+SC Paderborn 07,7,17,8460,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Normal,Cover
+Le Havre AC,7,26,9746,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Dijon FCO,9,20,9836,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Royal Excel Mouscron,21,46,9996,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Royal Excel Mouscron,21,46,9996,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Carpi,9,18,208931,Fast,Normal,Mixed,Organised,Risky,Normal,Normal,Organised,Deep,Press,Normal,Cover
+FC Penafiel,5,22,6547,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Córdoba CF,3,24,7869,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Fortuna Düsseldorf,7,18,8194,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+Cardiff City,7,22,8344,Balanced,Normal,Long,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+Middlesbrough,7,20,8549,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Reading,6,22,9798,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Pescara,6,28,9878,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Frosinone,8,23,9891,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+FC Dordrecht,4,22,6631,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+CD Numancia,10,23,8388,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+FC Metz,7,22,8550,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+Eintracht Braunschweig,6,21,9776,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+Brescia,7,20,9858,Balanced,Normal,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+CD Tenerife,9,20,9867,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+AC Arles-Avignon,3,24,108893,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover

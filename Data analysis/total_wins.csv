@@ -1,0 +1,297 @@
+team,home_wins,away_wins,total_wins
+FC Barcelona,131,103,234
+Real Madrid CF,129,99,228
+Celtic,120,98,218
+FC Bayern Munich,109,84,193
+Juventus,105,84,189
+SL Benfica,102,83,185
+FC Porto,102,81,183
+Ajax,103,78,181
+FC Basel,103,77,180
+Manchester United,116,76,192
+Chelsea,101,75,176
+Arsenal,97,73,170
+PSV,105,73,178
+Paris Saint-Germain,102,73,175
+Borussia Dortmund,88,69,157
+Roma,97,65,162
+Sporting CP,79,65,144
+Atlético Madrid,103,64,167
+Inter,90,64,154
+Liverpool,86,64,150
+Olympique de Marseille,80,63,143
+Tottenham Hotspur,88,63,151
+Manchester City,113,62,175
+Milan,92,62,154
+Olympique Lyonnais,91,62,153
+Bayer 04 Leverkusen,76,61,137
+FC Twente,85,59,144
+AZ,82,58,140
+FC Zürich,62,58,120
+Napoli,95,58,153
+BSC Young Boys,85,57,142
+RSC Anderlecht,79,57,136
+Legia Warszawa,81,56,137
+LOSC Lille,93,54,147
+Aberdeen,67,53,120
+Feyenoord,86,53,139
+Motherwell,69,53,122
+Fiorentina,80,52,132
+Rangers,56,52,108
+Valencia CF,90,52,142
+Lazio,81,50,131
+Lech Poznań,74,50,124
+Dundee United,66,49,115
+Club Brugge KV,75,48,123
+Inverness Caledonian Thistle,48,48,96
+Sevilla FC,91,48,139
+Stade Rennais FC,63,48,111
+FC Schalke 04,80,47,127
+AS Saint-Étienne,75,46,121
+KAA Gent,63,46,109
+Everton,76,45,121
+Girondins de Bordeaux,81,45,126
+SC Braga,81,45,126
+St. Johnstone FC,53,45,98
+Vitesse,60,45,105
+Grasshopper Club Zürich,71,44,115
+Wisła Kraków,64,44,108
+VfL Wolfsburg,74,43,117
+AS Monaco,53,42,95
+Athletic Club de Bilbao,80,42,122
+SC Heerenveen,65,42,107
+Aston Villa,45,41,86
+Chievo Verona,46,41,87
+Toulouse FC,62,41,103
+VfB Stuttgart,58,41,99
+FC Luzern,65,40,105
+Standard de Liège,66,40,106
+Montpellier Hérault SC,71,39,110
+Málaga CF,67,39,106
+Vitória Guimarães,53,39,92
+Borussia Mönchengladbach,71,38,109
+Hamburger SV,55,38,93
+Kilmarnock,48,38,86
+Ruch Chorzów,54,38,92
+Udinese,77,38,115
+FC Groningen,72,37,109
+OGC Nice,69,37,106
+FC Utrecht,69,36,105
+KRC Genk,61,36,97
+FC Lorient,62,35,97
+Heart of Midlothian,66,35,101
+TSG 1899 Hoffenheim,52,35,87
+Villarreal CF,77,35,112
+CD Nacional,60,34,94
+FC Sion,70,34,104
+Heracles Almelo,59,34,93
+1. FSV Mainz 05,55,33,88
+SV Werder Bremen,56,33,89
+SV Zulte-Waregem,45,33,78
+Sporting Lokeren,41,33,74
+FC Paços de Ferreira,48,32,80
+Genoa,74,32,106
+Getafe CF,62,32,94
+Hibernian,33,32,65
+Rio Ave FC,43,32,75
+Lechia Gdańsk,47,31,78
+Polonia Bytom,63,31,94
+CS Marítimo,55,30,85
+Hamilton Academical FC,26,30,56
+RCD Espanyol,67,30,97
+Śląsk Wrocław,59,30,89
+ADO Den Haag,50,29,79
+FC St. Gallen,43,29,72
+Hannover 96,62,29,91
+KV Mechelen,50,29,79
+Newcastle United,53,29,82
+Stoke City,69,29,98
+Sunderland,49,29,78
+1. FC Köln,32,28,60
+Sampdoria,56,28,84
+West Bromwich Albion,47,28,75
+Bologna,41,27,68
+FC Thun,44,27,71
+Hertha BSC Berlin,38,27,65
+Piast Gliwice,38,27,65
+Real Sociedad,57,27,84
+Roda JC Kerkrade,44,27,71
+St. Mirren,34,27,61
+AS Nancy-Lorraine,30,26,56
+Eintracht Frankfurt,46,26,72
+KV Kortrijk,56,26,82
+Korona Kielce,43,26,69
+P. Warszawa,34,26,60
+Rayo Vallecano,41,25,66
+Real Betis Balompié,31,25,56
+Swansea City,37,25,62
+West Ham United,55,25,80
+Atalanta,55,24,79
+Cagliari,52,24,76
+Jagiellonia Białystok,63,24,87
+N.E.C.,44,24,68
+Palermo,67,24,91
+Parma,50,24,74
+RC Celta de Vigo,30,24,54
+SC Freiburg,38,24,62
+Southampton,36,24,60
+Zagłębie Lubin,35,24,59
+FC Augsburg,32,23,55
+NAC Breda,48,23,71
+Podbeskidzie Bielsko-Biała,19,23,42
+AJ Auxerre,31,22,53
+SM Caen,34,22,56
+Wigan Athletic,28,22,50
+Académica de Coimbra,35,21,56
+Granada CF,31,21,52
+Levante UD,48,21,69
+Torino,36,21,57
+Estoril Praia,30,20,50
+GKS Bełchatów,42,20,62
+KSV Cercle Brugge,38,20,58
+RC Deportivo de La Coruña,42,20,62
+Sporting Charleroi,35,20,55
+1. FC Nürnberg,30,19,49
+CA Osasuna,48,19,67
+Cracovia,42,19,61
+FC Sochaux-Montbéliard,50,19,69
+Fulham,52,19,71
+KVC Westerlo,35,19,54
+PEC Zwolle,31,18,49
+RCD Mallorca,49,18,67
+Ross County FC,32,18,50
+Widzew Łódź,30,18,48
+Crystal Palace,20,17,37
+FC Nantes,28,17,45
+Racing Santander,20,17,37
+Sassuolo,20,17,37
+UD Almería,31,17,48
+Vitória Setúbal,41,17,58
+Bolton Wanderers,27,16,43
+Partick Thistle F.C.,16,16,32
+Pogoń Szczecin,26,16,42
+Real Sporting de Gijón,38,16,54
+Valenciennes FC,49,16,65
+Évian Thonon Gaillard FC,29,16,45
+CF Os Belenenses,22,15,37
+Leicester City,19,15,34
+En Avant de Guingamp,23,14,37
+Neuchâtel Xamax,22,14,36
+Real Zaragoza,29,14,43
+Stade de Reims,30,14,44
+Blackburn Rovers,29,13,42
+Dundee FC,16,13,29
+Moreirense FC,12,13,25
+S.C. Olhanense,19,13,32
+SC Bastia,38,13,51
+Sint-Truidense VV,18,13,31
+Willem II,31,13,44
+KV Oostende,17,12,29
+Norwich City,27,12,39
+Real Valladolid,25,12,37
+Hellas Verona,21,11,32
+Hull City,21,11,32
+Lecce,13,11,24
+Siena,26,11,37
+Beerschot AC,30,10,40
+Catania,57,10,67
+FC Aarau,25,10,35
+FC Arouca,18,10,28
+Waasland-Beveren,14,10,24
+1. FC Kaiserslautern,8,9,17
+De Graafschap,18,9,27
+FC Vaduz,10,9,19
+Naval 1° de Maio,13,9,22
+RAEC Mons,16,9,25
+RKC Waalwijk,25,9,34
+Servette FC,11,9,20
+Stade Brestois 29,18,9,27
+Wolverhampton Wanderers,16,9,25
+AC Bellinzona,17,8,25
+Elche CF,12,8,20
+Excelsior,19,8,27
+Gil Vicente FC,18,8,26
+Leixões SC,9,8,17
+Royal Excel Mouscron,18,8,26
+SC Beira Mar,12,8,20
+"União de Leiria, SAD",15,8,23
+Angers SCO,6,7,13
+Birmingham City,14,7,21
+Cesena,12,7,19
+Empoli,13,7,20
+FC Lausanne-Sports,16,7,23
+Lierse SK,15,7,22
+Queens Park Rangers,15,7,22
+RC Lens,19,7,26
+SD Eibar,13,7,20
+SV Darmstadt 98,2,7,9
+AC Ajaccio,16,6,22
+Bournemouth,5,6,11
+Falkirk,9,6,15
+Go Ahead Eagles,11,6,17
+Le Mans FC,12,6,18
+Oud-Heverlee Leuven,16,6,22
+VVV-Venlo,23,6,29
+VfL Bochum,7,6,13
+Watford,6,6,12
+Zawisza Bydgoszcz,13,6,19
+Bari,13,5,18
+Blackpool,5,5,10
+Boavista FC,12,5,17
+Grenoble Foot 38,10,5,15
+Odra Wodzisław,10,5,15
+Tondela,3,5,8
+Arka Gdynia,16,4,20
+Burnley,11,4,15
+Dunfermline Athletic,1,4,5
+ES Troyes AC,7,4,11
+FC St. Pauli,4,4,8
+FCV Dender EH,5,4,9
+Górnik Łęczna,12,4,16
+KSV Roeselare,8,4,12
+Livorno,9,4,13
+Portsmouth,13,4,17
+RC Recreativo,4,4,8
+SC Cambuur,20,4,24
+SpVgg Greuther Fürth,0,4,4
+UD Las Palmas,8,4,12
+Carpi,6,3,9
+Dijon FCO,6,3,9
+FC Ingolstadt 04,7,3,10
+GFC Ajaccio,5,3,8
+Karlsruher SC,5,3,8
+Le Havre AC,4,3,7
+Lugano,6,3,9
+Reggio Calabria,3,3,6
+SC Paderborn 07,4,3,7
+Sparta Rotterdam,12,3,15
+Termalica Bruk-Bet Nieciecza,5,3,8
+US Boulogne Cote D'Opale,4,3,7
+Cardiff City,5,2,7
+Córdoba CF,1,2,3
+DSC Arminia Bielefeld,2,2,4
+FC Energie Cottbus,6,2,8
+FC Penafiel,3,2,5
+Feirense,3,2,5
+Fortuna Düsseldorf,5,2,7
+Frosinone,6,2,8
+Hércules Club de Fútbol,7,2,9
+KAS Eupen,3,2,5
+Middlesbrough,5,2,7
+Novara,4,2,6
+Pescara,4,2,6
+Portimonense,4,2,6
+Reading,4,2,6
+Trofense,3,2,5
+Xerez Club Deportivo,6,2,8
+AC Arles-Avignon,2,1,3
+Amadora,7,1,8
+Brescia,6,1,7
+CD Numancia,9,1,10
+CD Tenerife,8,1,9
+Eintracht Braunschweig,5,1,6
+FC Dordrecht,3,1,4
+FC Metz,6,1,7
+FC Volendam,6,1,7
+Tubize,6,1,7
+Uniao da Madeira,6,1,7
